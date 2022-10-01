@@ -1,6 +1,5 @@
 # Todo List Website 
-## using Vue3 and Vite
-
+using Vue3 and Vite
 with local database 
 
 
